@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string>//добавление библиотекм
 int main () {
 std::string name;
 std:: cin>> name;
