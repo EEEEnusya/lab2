@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string>//добавление библиоткм
 using namespace std;
 int
 main()
