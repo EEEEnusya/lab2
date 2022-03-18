@@ -1,11 +1,8 @@
 #include <iostream>
-#include <string>//добавление библиоткм
-using namespace std;
-int
-main()
-{
-  std::string name;
-  std::cin >> name;
-  std::cout << "Hello, world from " << name << std::endl;
-  return 0;
-}
+#include <string> //добавление библиотекм
+int main () {
+std::string name;
+std::cin >> name;
+std::cout << "Hello, world from " << name <<  std::endl;
+return  0;
+} 
